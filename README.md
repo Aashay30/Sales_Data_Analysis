@@ -1,3 +1,7 @@
+* Title :-        **Budget Sales Analysis**
+* Created by :-   Aashay Tamrakar
+* Tool used:-     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ## Glimpse of the Dashboard 🎥
 ![screenshot](https://user-images.githubusercontent.com/69301816/188271334-a7446448-2b97-4dfe-8f96-26f2b655f554.gif)
 
