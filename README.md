@@ -1,6 +1,6 @@
 * Title :-        **Budget Sales Analysis**
 * Created by :-   Aashay Tamrakar
-* Tool used:-     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+* Tool used:-    ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Glimpse of the Dashboard 🎥
 ![screenshot](https://user-images.githubusercontent.com/69301816/188271334-a7446448-2b97-4dfe-8f96-26f2b655f554.gif)
@@ -11,7 +11,7 @@ The goal of this project is to analysis the sales budget data, extract necessary
 ## Problem statement 📜
 - Do ETL : Extract-Transform-Load dataset
 - Perform EDA through python
-- Extract various information such as Sales, budget, variance
+- Extract various information such as Sales, Budget, Variance, Profit
 - Extract necessary information about Products and Customers
 - Make necessary dashboard
 - Find key metrics and factors and show the meaningful relationships between attributes
@@ -25,14 +25,11 @@ Business Intelligence
 ## Domain 🛒
 Retail & Sales
 
-## Project Difficulty level 🥇
-Advanced
-
 ## Programming Language 💻
-Python, DAX and Power Query M
+Python, DAX and Power Query
 
 ## Tools 🛠
-Jupyter Notebook, MS-Excel, MS-Power BI
+Jupyter Notebook, MS-Excel, MS-Power BI, Python, Numpy, Pandas, Plotly
 
 ## Approach (Architecture) ⚙
 ![App Screenshot](https://user-images.githubusercontent.com/69301816/188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136.JPG)
